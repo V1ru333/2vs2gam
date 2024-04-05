@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2vs2</title>
+</head>
+<body>
+    <h1>2vs2 game</h1>
+    <p>This is the official page of 2vs2 game.</p>
+    <p>To download game: </p>
+    <a href="https://drive.google.com/file/d/1YNvWeh_ir2w-8xppV-dg1ZD60bgH2peR/view?usp=drive_link" download>Download</a>
+</body>
+</html>
